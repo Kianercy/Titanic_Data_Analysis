@@ -19,7 +19,7 @@ Passengers’ sex: 0.65% of the passengers were male.
 
 -> SOCIO-ECONOMIC of TITANIC POPULATION 
 
--Does socio-economic statue of adult unmarried women affect their survival rate?
+- Does socio-economic statue of adult unmarried women affect their survival rate?
 
 The range of unmarried women is almost bimodal. The first modal is for teenage girls (age<18). However, a bigger portion of the is single women are their 20-40. It raises the question that if these women are among the top class of the society.
 
