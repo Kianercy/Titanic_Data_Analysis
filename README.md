@@ -1,21 +1,16 @@
 # Titanic_Data_Analysis
 
-The socio-economic analysis on the Titanic population
-
 This report looks at the Titanic data set to investigate the statistic of Titanic passenger and their socio-economical factors.
 Descriptive statistics of the Titanic passenger
 
 This dataset has 891 rows and 12 columns.  However there are considerable portion of the dataset that is missing. Only 183 rows have complete data for all the columns.
 
 -Age:  First the data was cleaned fro m the data that do not an age value. The passengers’ age distribution is bimodal with median of 28. 
-
-
 -Survival statistics: The survived statistics shows that 38.4% percent of passengers survived. The dataset have all the 891 survived values.
-
 
 -Embarking locations: With regards of embarking locations; 72.4% belongs to S, 18.9 to C and 8.7% of passengers embarked at Q.  From all dataset 891, 889 row for embarking data   is available.
 
-Passengers’ sex: 0.65% of the passengers were male.
+- Passengers’ sex: 0.65% of the passengers were male.
 
 -> SOCIO-ECONOMIC of TITANIC POPULATION 
 
